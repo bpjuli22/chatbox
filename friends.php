@@ -1,7 +1,7 @@
 <?php
 include('server.php');
 include 'Pages\Header.php';
-include 'Pages\homeview.php';
+include 'Pages\friendsview.php';
 class ServerInit
 {
 	private $server;
@@ -27,4 +27,3 @@ $Searchq= new ServerInit($connect);
 $Searchq->formview();
 
 ?>
-
