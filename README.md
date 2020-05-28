@@ -4,3 +4,5 @@ steps:
 2-create tables namely:""
 3-import the table from the database folder and make sure there are some dummy data inserted .
 4-run chatbox folder index.php file
+
+cannot find database folder
